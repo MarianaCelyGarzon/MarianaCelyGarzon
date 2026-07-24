@@ -27,5 +27,5 @@ I'm passionate about using mathematics to solve real-world problems through data
 
 ## 📫 Connect with me
 
-- LinkedIn: *(tu enlace)*
-- ORCID: *(tu enlace)*
+- LinkedIn: https://www.linkedin.com/in/mariana-cely-garz%C3%B3n-903876377/
+- Mail: marianacelygarzon@gmail.com
