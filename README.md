@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mariana
 
-<!--
-**MarianaCelyGarzon/MarianaCelyGarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pure Mathematics Graduate
 
-Here are some ideas to get you started:
+I'm passionate about using mathematics to solve real-world problems through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Interests
+
+- Topology
+- Topological Data Analysis
+- Data Science
+- Machine Learning
+
+## 💻 Languages & Tools
+
+- Python
+- SQL
+- R
+- Power BI
+- Git
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Topological Data Analysis
+- Data Engineering
+
+## 📫 Connect with me
+
+- LinkedIn: *(tu enlace)*
+- ORCID: *(tu enlace)*
